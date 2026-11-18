@@ -15,9 +15,9 @@ password:"butler$12",
 uniqueCode: "110698",
 accounts:{
 
-checking:118,430.22,
+checking:118430.22,
 
-savings:232,540.18
+savings:232540.18
 
 },
 
@@ -29,7 +29,7 @@ name:"Payroll Deposit",
 
 date:"Oct 1",
 
-amount:14,800.00,
+amount:14800.00,
 
 type:"credit"
 
@@ -41,7 +41,7 @@ name:"Amazon",
 
 date:"0ct 30",
 
-amount:1,120.99,
+amount:1120.99,
 
 type:"debit"
 
@@ -65,7 +65,7 @@ name:"Apple",
 
 date:"Oct 28",
 
-amount:3,999.00,
+amount:3999.00,
 
 type:"debit"
 
